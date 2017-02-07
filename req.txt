@@ -1,15 +1,10 @@
 appdirs==1.4.0
 Django==1.10.5
 djangorestframework==3.5.3
-get==0.0.0
 httpie==0.9.9
 packaging==16.8
-post==0.0.0
-public==0.0.0
 Pygments==2.2.0
 pyparsing==2.1.10
 pytz==2016.10
-query-string==0.0.0
 requests==2.13.0
-setupfiles==0.0.0
 six==1.10.0

@@ -91,3 +91,6 @@ ENV/
 
 # SQLite3 DB
 db.sqlite3
+
+# Secret
+conf/etc/secret.py
